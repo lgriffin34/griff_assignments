@@ -29,8 +29,8 @@ A human being must not pretend to be a robot.
 **A** _human_ being must not pretend to be a **robot**. 
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
-![robot](https://user-images.githubusercontent.com/111811750/189771079-bf94cda5-2f6b-415c-bf26-67047115a708.jpg)
 
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
+![robot](https://user-images.githubusercontent.com/111811750/189771079-bf94cda5-2f6b-415c-bf26-67047115a708.jpg)
 
 👉 Stick your Post-It note onto your computer so I know you're finished.
