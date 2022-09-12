@@ -17,19 +17,19 @@ A robot must protect its own existence as long as such protection does not confl
 ___
 
 👉 What is the Fourth Law of Robotics? (Feel free to make up something silly.) Write it on the next line.
-
+A human being must not pretend to be a robot. 
 
 👉 Create a heading that says "Fourth Law of Robotics."
-
+### Fourth Law of Robotics
 
 👉 Paste your entry below and bold the first and last words of your entry.
-
+**A** human being must not pretend to be a **robot**. 
 
 👉 Paste your entry below and italicize the second word of your entry.
-
+**A** _human_ being must not pretend to be a **robot**. 
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
-
+![robot](https://user-images.githubusercontent.com/111811750/189771079-bf94cda5-2f6b-415c-bf26-67047115a708.jpg)
 
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
 
