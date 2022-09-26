@@ -19,9 +19,15 @@ _Each group will identify a "problem" - a research question that they will attem
 
 1. **What is (are) your research question(s)?** _You may define broadly at this early stage._
 
+What were the language, advertising and spatial choices concerning the centennial celebrations of the American independence in Philadelphia (1876, 1926, 1976 and 2026)? How do they connect with the U.S. political moment of each celebration? 
+
 2. **What types of evidence are available to you to address this question?** _Be as broad or specific as you need to at this early stage, e.g. "census records" or "1910 Census Report Vol. 5: Agriculture."_
 
+Philadelphia City Archives, The Historical Society of Pennsylvania, The Daughters of the American Revoltution(?), The Philadelphia Inquirer Archives at Temple, the 2026 centennial website, and official press releases, newspaper articles, and print publications. 
+
 3. **What is your audience?** _Who is this project intended for? Be as specific as possible. This may help you know what complexity of language to use, how to handle navigability, and if you’ll need to anticipate any access barriers._
+
+Our project targets residents of Philadelphia. History enthusiants and professionals in the cultural sector might also be interested in this project. These centennial projects do have lasting impact on the city, so an audience of professionals in the field and engaged residents might be the most interested. Our ideal audience would be 25-50 years old, but an older demographic who shares an interest in the American Revolution might be a separate audience. 
 
 #### Helpful links at this stage:
 - Poling, [Guide to Formulating a Research Question in History](https://history.fas.harvard.edu/files/history/files/research_question.pdf?m=1459176775)
