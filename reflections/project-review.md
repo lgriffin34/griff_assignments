@@ -21,7 +21,7 @@ Review the project following the guidelines outlined in the Journal of American 
 
 ## Submit 🎯
 
-**The Third Space:Japanese American Resettlement in Greater Philadelphia**
+**The Third Space: Japanese American Resettlement in Greater Philadelphia**
 
 This exhibit was originally designed to be an in-person exhibit at the Fleisher Art Memorial in South Philadelphia in Fall 2020. The venue closed due to the pandemic, so the exhibit creators decided to translate their exhibit into a virtual space. Rather than recreating the project in a stable, online digital exhibit website platform, the creators crafted a virtual reality exhibit venue using Unity software. The audience expanded with a virtual setting and the exhibit targets Japanese American citizens, Philadelphia residents and historians, political activists, digital artists, and those interested in immigration history and community development.
 
