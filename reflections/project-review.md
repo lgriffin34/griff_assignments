@@ -20,10 +20,9 @@ Review the project following the guidelines outlined in the Journal of American 
 ### Rubric
 
 ## Submit 🎯
-Insert any textual elements of your review here:
 
-The Third Space:
-Japanese American Resettlement in Greater Philadelphia
+**The Third Space:Japanese American Resettlement in Greater Philadelphia**
+
 This exhibit was originally designed to be an in-person exhibit at the Fleisher Art Memorial in South Philadelphia in Fall 2020. The venue closed due to the pandemic, so the exhibit creators decided to translate their exhibit into a virtual space. Rather than recreating the project in a stable, online digital exhibit website platform, the creators crafted a virtual reality exhibit venue using Unity software. The audience expanded with a virtual setting and the exhibit targets Japanese American citizens, Philadelphia residents and historians, political activists, digital artists, and those interested in immigration history and community development.
 
 The exhibit was funded by the Japanese American Citizens League (JACL) Legacy Fund and the National Park Service Japanese American Confinement Sites Grant. It was presented through the Japan American Society of Greater Philadelphia and the Da Vinci Arts Initiative.  The project falls under the scholarship of immigration history, movement studies, community formation, and political activism. 
@@ -37,4 +36,4 @@ The design of the exhibit is straightforward but also engaging. The first two bu
 This exhibit was an innovative example of effective redesign during the pandemic. Its somber design conveys the lasting trauma of time in the camps on the psyche of Japanese Americans. It felt like visiting an exhibit, but given the software I was thinking of the possibilities of adding in NPCs that feature oral history recordings or stories that also help someone understand more about this community and their efforts to rebuild. A wider audience was able to engage with this exhibit after the redesign, and its digital presence is more permanent and accessible than a temporary exhibit at a physical space.
 
 
-Insert any URLs here: https://everydayfuturesfest.org/the-third-space
+https://everydayfuturesfest.org/the-third-space
